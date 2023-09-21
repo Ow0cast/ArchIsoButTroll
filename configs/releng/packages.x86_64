@@ -1,17 +1,11 @@
-alsa-utils
 amd-ucode
 arch-install-scripts
-archinstall
 b43-fwcutter
 base
 bind
-brltty
 broadcom-wl
-btrfs-progs
 clonezilla
 cloud-init
-cryptsetup
-darkhttpd
 ddrescue
 dhclient
 dhcpcd
@@ -60,8 +54,6 @@ man-db
 man-pages
 mc
 mdadm
-memtest86+
-memtest86+-efi
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
@@ -80,7 +72,6 @@ open-vm-tools
 openconnect
 openpgp-card-tools
 openssh
-openvpn
 partclone
 parted
 partimage
@@ -108,7 +99,6 @@ systemd-resolvconf
 tcpdump
 terminus-font
 testdisk
-tmux
 tpm2-tools
 tpm2-tss
 udftools
